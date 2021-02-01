@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-   <p>I am learning React. My life is getting better.</p>
+   <p>I am learning React. My life is getting better. </p>
   );
 }
 
